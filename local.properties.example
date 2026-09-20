@@ -1,0 +1,8 @@
+# Copy this file to "local.properties" (no .example) in the project root
+# and point sdk.dir at wherever you installed the Android SDK.
+#
+# Method A (Termux, via Sohil876/termux-sdk-installer, see README): typically
+sdk.dir=/data/data/com.termux/files/home/android-sdk
+#
+# Method B (AndroidIDE app): AndroidIDE writes this file for you automatically
+# when you open the project inside it - you don't need to edit it there.
